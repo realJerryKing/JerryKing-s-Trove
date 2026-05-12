@@ -28,17 +28,19 @@ A comprehensive university information query system that enables AI agents to in
 ---
 
 ### 🌍 Global Epidemic Tracker
-> **Real-time disease outbreak monitoring with news cross-validation**
+> **CDC is dead, we protect the people.**
 
-A sophisticated epidemic tracking system that monitors disease outbreaks worldwide in real-time, cross-referencing multiple news sources for validation and accuracy.
+Real-time global disease outbreak monitoring with news cross-validation. Data sourced from WHO Disease Outbreak News API, validated against independent news outlets, and presented through an interactive Chinese-language dashboard.
 
 **Key Features:**
-- 📡 Real-time outbreak detection
-- 📰 News cross-validation engine
-- 🗺️ Geographic spread visualization
-- ⚠️ Early warning system
+- 🌐 **581 active outbreaks** across **151 countries**
+- 🦠 **53 diseases** tracked including Cholera, Ebola, Dengue, Measles, Hantavirus, Mpox, and more
+- 📊 **2.97M cases** and **13,677 deaths** monitored globally
+- 📰 **News cross-validation**: every outbreak verified against Bing, Google News, and Reddit
+- 🏷️ **Data source & credibility labels**: each disease card shows data source and verification status
+- ⏰ **Auto-updates every 6 hours** via GitHub Actions
 
-**🔗 Repository:** [global-epidemic-tracker](https://github.com/MRLMRML/global-epidemic-tracker)
+**🔗 Repository:** [global-epidemic-tracker](https://github.com/MRLMRML/global-epidemic-tracker) | **📊 Live Dashboard:** [mrlmrml.github.io/global-epidemic-tracker](https://mrlmrml.github.io/global-epidemic-tracker/)
 
 ---
 
