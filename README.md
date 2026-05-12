@@ -1,5 +1,10 @@
 # 🏆 JerryKing's Trove
 
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--05--12-blue)
+![Maintenance](https://img.shields.io/badge/Maintenance-Active-brightgreen)
+![Skills](https://img.shields.io/badge/Skills-4-orange)
+![License](https://img.shields.io/badge/License-Multiple-yellow)
+
 A curated collection of skills, tools, and utilities crafted by JerryKing.  
 Each skill is designed to solve real-world problems with elegance and efficiency.
 
@@ -99,6 +104,15 @@ While these skills are personal projects, suggestions and feedback are welcome! 
 1. Open issues for bug reports
 2. Suggest new features
 3. Submit pull requests
+
+---
+
+## 📧 Contact
+
+For questions, feedback, or collaboration opportunities, feel free to reach out:
+
+- **Email:** [realJerryKing@163.com](mailto:realJerryKing@163.com)
+- **GitHub:** [@MRLMRML](https://github.com/MRLMRML)
 
 ---
 
