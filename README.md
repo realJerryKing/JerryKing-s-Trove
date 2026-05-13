@@ -2,7 +2,7 @@
 
 ![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--05--12-blue)
 ![Maintenance](https://img.shields.io/badge/Maintenance-Active-brightgreen)
-![Skills](https://img.shields.io/badge/Skills-4-orange)
+![Skills](https://img.shields.io/badge/Skills-6-orange)
 ![License](https://img.shields.io/badge/License-Multiple-yellow)
 
 A curated collection of skills, tools, and utilities crafted by JerryKing.  
@@ -77,6 +77,43 @@ An ultra-efficient breaking news detection system designed for AI agents. Uses a
 
 ---
 
+### 🍽️ Food Craft
+> **AI 驱动的智能菜谱生成系统 - 在约束条件下做出最好吃的菜**
+
+An AI-powered recipe generation system that creates customized recipes based on multiple constraints including dietary preferences, budget, calorie requirements, and cooking time. Covers 39+ global cuisines with 1744+ recipes and 1025+ ingredients.
+
+**Key Features:**
+- 🍳 **1744+ recipes** across Chinese and international cuisines
+- 🥬 **1025+ ingredients** with nutrition, pricing, and pairing data
+- 🌍 **39+ cuisines** covering major culinary traditions worldwide
+- 🎯 **7 scenarios**: Children, Elderly, Weight Loss, Muscle Gain, Vegetarian, Party, Holiday
+- 💰 **Budget control** with intelligent ingredient substitution
+- 📊 **Nutrition tracking** with calorie and macro targets
+- 🌐 **HTML output** for beautiful recipe presentation
+
+**🔗 Repository:** [food-craft](https://github.com/MRLMRML/food-craft) | **📊 Live Demo:** [mrlmrml.github.io/food-craft](https://mrlmrml.github.io/food-craft/)
+
+---
+
+### 🌍 Travel Planner
+> **AI 驱动的智能旅行规划系统 - 安全第一，全面规划**
+
+An AI-powered travel planning system that generates comprehensive travel itineraries with real-time safety assessments, visa information, weather forecasts, and local phrase guides. Supports 201+ cities worldwide with 100% free data sources.
+
+**Key Features:**
+- 🛡️ **Safety first** - Disease, natural disaster, and security risk assessments
+- 📋 **Visa information** - Chinese passport, 20+ countries
+- 💱 **Currency exchange** - Real-time conversion and budget planning
+- 🌤️ **Weather forecast** - 16-day forecast with clothing suggestions
+- 🗣️ **Local phrases** - 12 languages with pronunciation guides
+- 🧳 **Packing list** - Customized by weather and itinerary
+- 🌐 **201+ cities** across Asia, Europe, Americas, and Oceania
+- 📄 **HTML output** for beautiful travel plan presentation
+
+**🔗 Repository:** [travel-planner](https://github.com/MRLMRML/travel-planner) | **📊 Live Demo:** [mrlmrml.github.io/travel-planner](https://mrlmrml.github.io/travel-planner/)
+
+---
+
 ## 🛠️ Installation & Usage
 
 Each skill is a standalone repository with its own documentation. Click the repository links above to access:
@@ -96,6 +133,8 @@ Each skill is a standalone repository with its own documentation. Click the repo
 | Epidemic Tracker | Disease monitoring | ✅ Active |
 | Event Calendar | Global events aggregation | ✅ Active |
 | News Monitor | Breaking news detection | ✅ Active |
+| Food Craft | AI recipe generation | ✅ Active |
+| Travel Planner | Travel itinerary planning | ✅ Active |
 
 ---
 
