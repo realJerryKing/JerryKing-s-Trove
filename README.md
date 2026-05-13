@@ -23,7 +23,7 @@ A comprehensive university information query system that enables AI agents to in
 - 🔬 Laboratory & research group information
 - 🌐 Multi-dimensional comparison tools
 
-**🔗 Repository:** [university-info-skill](https://github.com/MRLMRML/university-info-skill) | **📊 Live Demo:** [mrlmrml.github.io/university-info-skill](https://mrlmrml.github.io/university-info-skill/)
+**🔗 Repository:** [university-info-skill](https://github.com/MRLMRML/university-info-skill) | **📊 数据统计:** [mrlmrml.github.io/university-info-skill](https://mrlmrml.github.io/university-info-skill/)
 
 ---
 
