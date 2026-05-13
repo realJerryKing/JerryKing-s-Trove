@@ -23,7 +23,7 @@ A comprehensive university information query system that enables AI agents to in
 - 🔬 Laboratory & research group information
 - 🌐 Multi-dimensional comparison tools
 
-**🔗 Repository:** [university-info-skill](https://github.com/MRLMRML/university-info-skill)
+**🔗 Repository:** [university-info-skill](https://github.com/MRLMRML/university-info-skill) | **📊 Live Demo:** [mrlmrml.github.io/university-info-skill](https://mrlmrml.github.io/university-info-skill/)
 
 ---
 
@@ -56,7 +56,7 @@ A comprehensive global events calendar aggregating major happenings across multi
 - 💻 Tech conferences & product launches
 - 🎭 Cultural festivals & exhibitions
 
-**🔗 Repository:** [big-event-calendar](https://github.com/MRLMRML/big-event-calendar)
+**🔗 Repository:** [big-event-calendar](https://github.com/MRLMRML/big-event-calendar) | **📊 Live Demo:** [mrlmrml.github.io/big-event-calendar](https://mrlmrml.github.io/big-event-calendar/)
 
 ---
 
