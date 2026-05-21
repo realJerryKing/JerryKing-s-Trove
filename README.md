@@ -12,18 +12,21 @@ Each skill is designed to solve real-world problems with elegance and efficiency
 
 ## 🚀 Featured Skills
 
-### 🎓 University Info Skill
-> **让 AI 秒懂高校：查排名、看学科、比就业、选留学、找实验室，323+ 高校数据一问即答**
+### 🎓 University Insight
+> **高校信息 + 人才分析 + 排名洞察的一站式解决方案**
 
-A comprehensive university information query system that enables AI agents to instantly access detailed data about 323+ universities worldwide. Perfect for educational research, study abroad planning, and academic benchmarking.
+A comprehensive upgrade of the original [University Info Skill](https://github.com/MRLMRML/university-info-skill), combining university information retrieval with talent analysis and result-oriented ranking. Covers 323+ universities worldwide with 4 major functional modules.
 
 **Key Features:**
-- 🏫 University rankings &学科评估
-- 📊 Employment statistics & 留学数据
-- 🔬 Laboratory & research group information
-- 🌐 Multi-dimensional comparison tools
+- 🏫 **323+ universities** across 27 countries/regions
+- 🎯 **4 modules**: University Info, School Selection, Campus Recruitment, Talent Ranking
+- 📊 **1483 discipline evaluations** (95 disciplines A+/A/A-/B+)
+- 🏆 **Talent ranking** based on enterprise internal data
+- 💼 **JD parsing** with natural language input
+- 🔬 **56 laboratories** (36 domestic + 20 international)
+- 🌐 **Smart supplementation** via Web Search when local data is insufficient
 
-**🔗 Repository:** [university-info-skill](https://github.com/MRLMRML/university-info-skill) | **📊 数据统计:** [mrlmrml.github.io/university-info-skill](https://mrlmrml.github.io/university-info-skill/)
+**🔗 Repository:** [university-insight](https://github.com/MRLMRML/university-insight) | **📊 数据统计:** [mrlmrml.github.io/university-insight](https://mrlmrml.github.io/university-insight/)
 
 ---
 
@@ -148,7 +151,7 @@ Each skill is a standalone repository with its own documentation. Click the repo
 
 | Skill | Purpose | Status |
 |-------|---------|--------|
-| University Info | Educational data query | ✅ Active |
+| University Insight | University info + talent analysis | ✅ Active |
 | Epidemic Tracker | Disease monitoring | ✅ Active |
 | Event Calendar | Global events aggregation | ✅ Active |
 | News Monitor | Breaking news detection | ✅ Active |
