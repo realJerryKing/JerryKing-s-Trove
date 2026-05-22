@@ -1,6 +1,6 @@
 # 🏆 JerryKing's Trove
 
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--05--12-blue)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--05--19-blue)
 ![Maintenance](https://img.shields.io/badge/Maintenance-Active-brightgreen)
 ![Skills](https://img.shields.io/badge/Skills-7-orange)
 ![License](https://img.shields.io/badge/License-Multiple-yellow)
@@ -26,7 +26,7 @@ A comprehensive upgrade of the original [University Info Skill](https://github.c
 - 🔬 **56 laboratories** (36 domestic + 20 international)
 - 🌐 **Smart supplementation** via Web Search when local data is insufficient
 
-**🔗 Repository:** [university-insight](https://github.com/MRLMRML/university-insight) | **📊 数据统计:** [mrlmrml.github.io/university-insight](https://mrlmrml.github.io/university-insight/)
+**🔗 Repository:** [university-insight](https://github.com/MRLMRML/university-insight)
 
 ---
 
