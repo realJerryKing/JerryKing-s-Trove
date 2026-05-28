@@ -13,20 +13,21 @@ Each skill is designed to solve real-world problems with elegance and efficiency
 ## 🚀 Featured Skills
 
 ### 🎓 University Insight
-> **高校信息 + 人才分析 + 排名洞察的一站式解决方案**
+> **高校信息 + 人才分析 + 学术猎头的一站式 AI Agent Skill**
 
-A comprehensive upgrade of the original [University Info Skill](https://github.com/MRLMRML/university-info-skill), combining university information retrieval with talent analysis and result-oriented ranking. Covers 323+ universities worldwide with 4 major functional modules.
+A comprehensive upgrade of the original [University Info Skill](https://github.com/MRLMRML/university-info-skill), combining university information retrieval with talent analysis, result-oriented ranking, and academic researcher scouting. Covers 337 universities worldwide with 5 major functional modules and live HTML dashboards.
 
 **Key Features:**
-- 🏫 **323+ universities** across 27 countries/regions
-- 🎯 **4 modules**: University Info, School Selection, Campus Recruitment, Talent Ranking
+- 🏫 **337 universities** (148 Chinese + 189 international, 27 countries/regions)
+- 🎯 **5 modules**: University Info, School Selection, Campus Recruitment, Talent Ranking, Academic Headhunter
+- 🔬 **Academic Headhunter** — 13 top AI/CS conferences (2018-2026), DBLP + Semantic Scholar author profiling, 15-channel contact search, candidate tracking
 - 📊 **1483 discipline evaluations** (95 disciplines A+/A/A-/B+)
-- 🏆 **Talent ranking** based on enterprise internal data
+- 🏆 **Talent ranking** based on enterprise internal data with 6-dimension evaluation
 - 💼 **JD parsing** with natural language input
-- 🔬 **56 laboratories** (36 domestic + 20 international)
+- 🖥️ **Live HTML dashboards** — [University Search](https://mrlmrmml.github.io/university-insight/university-search.html) + [Academic Headhunter](https://mrlmrmml.github.io/university-insight/academic-headhunter.html)
 - 🌐 **Smart supplementation** via Web Search when local data is insufficient
 
-**🔗 Repository:** [university-insight](https://github.com/MRLMRML/university-insight)
+**🔗 Repository:** [university-insight](https://github.com/MRLMRML/university-insight) | **📊 Live Dashboard:** [mrlmrmml.github.io/university-insight](https://mrlmrmml.github.io/university-insight/)
 
 ---
 
