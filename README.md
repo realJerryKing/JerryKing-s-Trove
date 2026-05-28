@@ -24,10 +24,10 @@ A comprehensive upgrade of the original [University Info Skill](https://github.c
 - 📊 **1483 discipline evaluations** (95 disciplines A+/A/A-/B+)
 - 🏆 **Talent ranking** based on enterprise internal data with 6-dimension evaluation
 - 💼 **JD parsing** with natural language input
-- 🖥️ **Live HTML dashboards** — [University Search](https://mrlmrmml.github.io/university-insight/university-search.html) + [Academic Headhunter](https://mrlmrmml.github.io/university-insight/academic-headhunter.html)
+- 🖥️ **Live HTML dashboards** — [University Search](https://mrlmrml.github.io/university-insight/university-search.html) + [Academic Headhunter](https://mrlmrml.github.io/university-insight/academic-headhunter.html)
 - 🌐 **Smart supplementation** via Web Search when local data is insufficient
 
-**🔗 Repository:** [university-insight](https://github.com/MRLMRML/university-insight) | **📊 Live Dashboard:** [mrlmrmml.github.io/university-insight](https://mrlmrmml.github.io/university-insight/)
+**🔗 Repository:** [university-insight](https://github.com/MRLMRML/university-insight) | **📊 Live Dashboard:** [mrlmrml.github.io/university-insight](https://mrlmrml.github.io/university-insight/)
 
 ---
 
