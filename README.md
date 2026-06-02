@@ -15,7 +15,7 @@ Each skill is designed to solve real-world problems with elegance and efficiency
 ### 🎓 University Insight
 > **高校信息 + 人才分析 + 学术猎头的一站式 AI Agent Skill**
 
-A comprehensive upgrade of the original [University Info Skill](https://github.com/MRLMRML/university-info-skill), combining university information retrieval with talent analysis, result-oriented ranking, and academic researcher scouting. Covers 337 universities worldwide with 5 major functional modules and live HTML dashboards.
+A comprehensive upgrade of the original [University Info Skill](https://github.com/MRLMRML/university-info-skill), combining university information retrieval with talent analysis, result-oriented ranking, and academic researcher scouting. Covers 337 universities worldwide with 5 major functional modules and local HTML dashboards.
 
 **Key Features:**
 - 🏫 **337 universities** (148 Chinese + 189 international, 27 countries/regions)
@@ -24,10 +24,8 @@ A comprehensive upgrade of the original [University Info Skill](https://github.c
 - 📊 **1483 discipline evaluations** (95 disciplines A+/A/A-/B+)
 - 🏆 **Talent ranking** based on enterprise internal data with 6-dimension evaluation
 - 💼 **JD parsing** with natural language input
-- 🖥️ **Live HTML dashboards** — [University Search](https://mrlmrml.github.io/university-insight/university-search.html)
 - 🌐 **Smart supplementation** via Web Search when local data is insufficient
 
-**🔗 Repository:** [university-insight](https://github.com/MRLMRML/university-insight) | **📊 Live Dashboard:** [mrlmrml.github.io/university-insight](https://mrlmrml.github.io/university-insight/)
 
 ---
 
