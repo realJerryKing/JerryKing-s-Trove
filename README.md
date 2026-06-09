@@ -15,7 +15,7 @@ Each skill is designed to solve real-world problems with elegance and efficiency
 ### 🎓 University Insight
 > **高校信息 + 人才分析 + 学术猎头的一站式 AI Agent Skill**
 
-A comprehensive upgrade of the original [University Info Skill](https://github.com/MRLMRML/university-info-skill), combining university information retrieval with talent analysis, result-oriented ranking, and academic researcher scouting. Covers 337 universities worldwide with 5 major functional modules and local HTML dashboards.
+A comprehensive upgrade of the original [University Info Skill](https://github.com/realJerryKing/university-info-skill), combining university information retrieval with talent analysis, result-oriented ranking, and academic researcher scouting. Covers 337 universities worldwide with 5 major functional modules and local HTML dashboards.
 
 **Key Features:**
 - 🏫 **337 universities** (148 Chinese + 189 international, 27 countries/regions)
@@ -42,7 +42,7 @@ Real-time global disease outbreak monitoring with news cross-validation. Data so
 - 🏷️ **Data source & credibility labels**: each disease card shows data source and verification status
 - ⏰ **Auto-updates every 6 hours** via GitHub Actions
 
-**🔗 Repository:** [global-epidemic-tracker](https://github.com/MRLMRML/global-epidemic-tracker) | **📊 Live Dashboard:** [mrlmrml.github.io/global-epidemic-tracker](https://mrlmrml.github.io/global-epidemic-tracker/)
+**🔗 Repository:** [global-epidemic-tracker](https://github.com/realJerryKing/global-epidemic-tracker) | **📊 Live Dashboard:** [realjerryking.github.io/global-epidemic-tracker](https://realjerryking.github.io/global-epidemic-tracker/)
 
 ---
 
@@ -58,7 +58,7 @@ A comprehensive global events calendar aggregating major happenings across multi
 - 💻 Tech conferences & product launches
 - 🎭 Cultural festivals & exhibitions
 
-**🔗 Repository:** [big-event-calendar](https://github.com/MRLMRML/big-event-calendar) | **📊 Live Demo:** [mrlmrml.github.io/big-event-calendar](https://mrlmrml.github.io/big-event-calendar/)
+**🔗 Repository:** [big-event-calendar](https://github.com/realJerryKing/big-event-calendar) | **📊 Live Demo:** [realjerryking.github.io/big-event-calendar](https://realjerryking.github.io/big-event-calendar/)
 
 ---
 
@@ -75,7 +75,7 @@ An ultra-efficient breaking news detection system designed for AI agents. Uses a
 - 🎯 Word-boundary regex matching
 - 🚫 Negative pattern filtering
 
-**🔗 Repository:** [breaking-news-monitor](https://github.com/MRLMRML/breaking-news-monitor)
+**🔗 Repository:** [breaking-news-monitor](https://github.com/realJerryKing/breaking-news-monitor)
 
 ---
 
@@ -93,7 +93,7 @@ An AI-powered recipe generation system that creates customized recipes based on 
 - 📊 **Nutrition tracking** with calorie and macro targets
 - 🌐 **HTML output** for beautiful recipe presentation
 
-**🔗 Repository:** [food-craft](https://github.com/MRLMRML/food-craft) | **📊 Live Demo:** [mrlmrml.github.io/food-craft](https://mrlmrml.github.io/food-craft/)
+**🔗 Repository:** [food-craft](https://github.com/realJerryKing/food-craft) | **📊 Live Demo:** [realjerryking.github.io/food-craft](https://realjerryking.github.io/food-craft/)
 
 ---
 
@@ -112,7 +112,7 @@ An AI-powered travel planning system that generates comprehensive travel itinera
 - 🌐 **201+ cities** across Asia, Europe, Americas, and Oceania
 - 📄 **HTML output** for beautiful travel plan presentation
 
-**🔗 Repository:** [travel-planner](https://github.com/MRLMRML/travel-planner) | **📊 Live Demo:** [mrlmrml.github.io/travel-planner](https://mrlmrml.github.io/travel-planner/)
+**🔗 Repository:** [travel-planner](https://github.com/realJerryKing/travel-planner) | **📊 Live Demo:** [realjerryking.github.io/travel-planner](https://realjerryking.github.io/travel-planner/)
 
 ---
 
@@ -131,7 +131,7 @@ An AI-powered gift recommendation system that helps users make perfect gift deci
 - 📦 **8 gift categories** with brand recommendations and price references
 - 💬 **6 conversation styles** auto-adapted to different scenarios
 
-**🔗 Repository:** [gift-recommender](https://github.com/MRLMRML/gift-recommender)
+**🔗 Repository:** [gift-recommender](https://github.com/realJerryKing/gift-recommender)
 
 ---
 
@@ -175,7 +175,7 @@ While these skills are personal projects, suggestions and feedback are welcome! 
 For questions, feedback, or collaboration opportunities, feel free to reach out:
 
 - **Email:** [realJerryKing@163.com](mailto:realJerryKing@163.com)
-- **GitHub:** [@MRLMRML](https://github.com/MRLMRML)
+- **GitHub:** [@realJerryKing](https://github.com/realJerryKing)
 
 ---
 
