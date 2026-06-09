@@ -26,6 +26,7 @@ A comprehensive upgrade of the original [University Info Skill](https://github.c
 - 💼 **JD parsing** with natural language input
 - 🌐 **Smart supplementation** via Web Search when local data is insufficient
 
+**🔗 Repository:** [university-insight](https://github.com/realJerryKing/university-insight)
 
 ---
 
