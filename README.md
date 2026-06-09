@@ -15,7 +15,7 @@ Each skill is designed to solve real-world problems with elegance and efficiency
 ### 🎓 University Insight
 > **高校信息 + 人才分析 + 学术猎头的一站式 AI Agent Skill**
 
-A comprehensive upgrade of the original [University Info Skill](https://github.com/realJerryKing/university-info-skill), combining university information retrieval with talent analysis, result-oriented ranking, and academic researcher scouting. Covers 337 universities worldwide with 5 major functional modules and local HTML dashboards.
+A comprehensive AI agent skill combining university information retrieval with talent analysis, result-oriented ranking, and academic researcher scouting. Covers 337 universities worldwide with 5 major functional modules and local HTML dashboards.
 
 **Key Features:**
 - 🏫 **337 universities** (148 Chinese + 189 international, 27 countries/regions)
